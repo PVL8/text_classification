@@ -1,0 +1,8 @@
+pandas==2.2.2
+torch==2.3.0
+transformers
+sklearn-pandas
+pytorch-lightning
+torchmetrics
+omegaconf
+
